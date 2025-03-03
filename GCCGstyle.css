@@ -1,0 +1,118 @@
+
+#section{
+    background: linear-gradient(to right, #095181, #19b824);
+    transition: background 0.5s ease-in-out;
+}
+
+.head1att{
+    text-align: center;
+    margin-top: 150px;
+    color: white;
+    font-size: 30px;
+    font-family: "Poppins", sans-serif;
+    font-weight: normal;
+}
+
+.subhead1{
+    margin-top: 40px;
+}
+
+.subhead1att{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: normal;
+}
+
+.directionbuttons{
+    display: flex;
+    margin-left: 556px;
+    margin-top: 40px;
+}
+
+.mybuttonatt{
+    text-align: center;
+    margin-left: 10px;
+    width: 90px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(243, 238, 238);
+    color: gray;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s, color 0.3s;
+    cursor: pointer;
+}
+
+.mybuttonatt:hover{
+    /* transform: scale(1.05); */
+    background-color: white;
+    color: black;
+
+}
+
+.subhead2{
+    margin-top: 40px;
+}
+
+.subhead2att{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: normal;
+}
+
+.colorname{
+    display: flex;
+    margin-left: 580px;
+}
+
+#color1{
+    margin-left: 88px;
+    color: white;
+}
+
+#color2{
+    margin-left: 80px;
+    color: white;
+}
+
+.colorbuttons{
+    display: flex;
+    margin-left: 605px;
+    cursor: pointer;
+}
+
+#palette1{
+    text-align: center;
+    margin-left: 50px;
+    width: 85px;
+    height: 45px;
+    border: none;
+    background: none;
+} 
+
+#palette2{
+    text-align: center;
+    margin-left: 50px;
+    width: 85px;
+    height: 45px;
+    border: none;
+    background: none;
+}
+
+#generatebuttonatt{
+    text-align: center;
+    margin-top: 35px;
+    margin-left: 710px;
+    width: 90px;
+    height: 35px;
+    border-radius: 5px;
+    border: none;
+    background-color: #17D4A3;
+    font-family: "Poppins", sans-serif;
+    font-weight: normal;
+}
